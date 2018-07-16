@@ -1,0 +1,10 @@
+1. In my opinion, temperatures is not a good way to predict population density.
+Because we can get that they have no relationship through observing the output
+graph. The points in the scatter plot can be formed a line which means they have
+no linear relationship so that using temperature to predict population density
+is not a good idea.
+
+2. Json is easy to change the data inside. For big data, if people change data,
+it is hard to check and search. In this project, we want to insure that the
+data will keep the same. Therefore, use gzip to make sure that the data in the
+document will not be changed.
